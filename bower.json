@@ -5,11 +5,6 @@
   "authors": [
     "David Miller"
   ],
-  "description": "A free, open source, Bootstrap admin theme created by Start Bootstrap",
-  "keywords": [
-    "bootstrap",
-    "theme"
-  ],
   "license": "Apache",
   "ignore": [
     "**/.*",
